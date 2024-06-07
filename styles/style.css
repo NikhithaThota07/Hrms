@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+}
+.container{
+    height: 800px;
+    width: 100%;
+    background-color: aliceblue;
+    position: fixed;
+    
+}
+img{
+    height: 50px;
+    width: 150px;
+    margin-left: 460px;
+    margin-top: 20px;
+}
+.content{
+    height: 500px;
+    width: 400px;
+    background-color: white;
+    margin-left: 450px;
+    padding: 30px;
+}
+.content1{
+    margin-left: 100px;
+}
+.content1 h3{
+    margin-left: 40px;
+}
+form{
+    margin-top: 30px;
+}
+form input{
+    width: 400px;
+    height: 30px;
+}
+select{
+    height: 30px;
+    width: 400px;
+}
+button{
+    height: 30px;
+    width: 350px;
+    background-color: rgb(108, 209, 209);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+button:hover{
+    background-color: rgb(195, 216, 236);
+
+}
+.content2 p{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.content2 a{
+    color: red;
+}
